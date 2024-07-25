@@ -4,6 +4,7 @@ Power BI Dashboard
 
 🔍 Project Objective: Develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling effective monitoring and analysis of credit card operations.
 
+
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 📌 SQL
 📌 PowerBi Service 
